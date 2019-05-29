@@ -4,7 +4,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.CheckBox
-import android.widget.RadioButton
 import androidx.recyclerview.widget.RecyclerView
 import com.flexboxsample.R
 import kotlinx.android.synthetic.main.choose_mood_item_layout.view.*
