@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FlexBoxSample</string>
+    <string name="choose_your_mood">Choose Your Mood</string>
+    <string name="select_more_than_three">select more than three items!</string>
+</resources>
